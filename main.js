@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("Happy Bird Day Ha Thanh").delay(750).fadeIn(300);
+        txt.hide().html("Happy Bird Day Ha' Thanh'").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
